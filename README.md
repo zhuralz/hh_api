@@ -16,7 +16,7 @@ Head Hunter API
     /employers?text=<> should be responded
     /employers should return required attributes
   /vacancies endpoint
-    /vacancies?text=QA Automation Engineer&area=Санкт-Петербург&emploer_id=МойОфис should be responded
+    /vacancies?text=<>&area=<>&emploer_id=<> should be responded
     /vacancies should return required attributes
 
 Finished in 1.32 seconds (files took 0.27224 seconds to load)
